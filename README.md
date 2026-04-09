@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning asl, C#, reverse engineering/modding
 - 💞️ I’m looking to collaborate on ASL development
 - 📫 How to reach me 
-          Discord - Meta #7272
+          Discord - MetaSR
 
 <!---
 LiterallyMetaphorical/LiterallyMetaphorical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
