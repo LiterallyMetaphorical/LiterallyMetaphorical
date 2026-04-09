@@ -13,4 +13,4 @@ You can find me on Discord at **`MetaSR`**
 ---
 
 ### 📊 Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiterallyMetaphorical&layout=compact&theme=transparent)](https://github.com/LiterallyMetaphorical)
+![Meta's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiterallyMetaphorical&layout=compact&hide_border=true&theme=dark)
