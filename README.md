@@ -9,8 +9,3 @@ I'm a community manager and ""developer"" with a deep passion for speedrunning, 
 
 ### 🤝 Let's Connect!
 You can find me on Discord at **`MetaSR`**
-
----
-
-### 📊 Language Stats
-![Meta's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiterallyMetaphorical&layout=compact&hide_border=true&theme=dark)
